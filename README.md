@@ -1,0 +1,2 @@
+# OblivionOfMagic
+OUR magic game
